@@ -1,0 +1,15 @@
+var scaise = [
+{ ID: 1, Compte: 'CLIENT', Entree: 3256069.5, Sortie: 1214.3, Solde: 3254855.2 },
+{ ID: 2, Compte: 'équipement', Entree: 0, Sortie: 401500, Solde: -401500 },
+{ ID: 3, Compte: 'FOURNISSEUR', Entree: 0, Sortie: 2318552, Solde: -2318552 },
+{ ID: 4, Compte: 'Frais divers - AHBAS', Entree: 0, Sortie: 109380, Solde: -109380 },
+{ ID: 5, Compte: 'Frais divers - bureau', Entree: 0, Sortie: 165958, Solde: -165958 },
+{ ID: 6, Compte: 'Frais divers - Ridouan', Entree: 0, Sortie: 1250, Solde: -1250 },
+{ ID: 7, Compte: 'khoudir Aouchet', Entree: 0, Sortie: 59100, Solde: -59100 },
+{ ID: 8, Compte: 'NADIR', Entree: 0, Sortie: 1353315, Solde: -1353315 },
+{ ID: 9, Compte: 'Réparation', Entree: 0, Sortie: 6000, Solde: -6000 },
+{ ID: 10, Compte: 'RIDOUAN', Entree: 0, Sortie: 181620, Solde: -181620 },
+{ ID: 11, Compte: 'SALAH', Entree: 1098760, Sortie: 9500, Solde: 1089260 },
+{ ID: 12, Compte: 'Sliman', Entree: 0, Sortie: 20000, Solde: -20000 },
+{ ID: 13, Compte: 'TRANSPORT', Entree: 0, Sortie: 4700, Solde: -4700 },
+];
